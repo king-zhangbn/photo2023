@@ -1,6 +1,6 @@
 <?php
-Sarr=file('background.txt');
-Sn=count(Sarr)-1;
-for ($i=1;$i<=1;$i++)1
-Sx=rand(0,Sn);header("Location:".$arr[$×],"\n");]
+$arr=file('background.txt');
+$n=coun($arr)-1;
+for ($i=1;$i<=1;$i++){
+$x=rand(0,$n);header("Location:".$arr[$×],"\n");}
 ?>  
